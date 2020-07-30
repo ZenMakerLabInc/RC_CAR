@@ -2,6 +2,9 @@
  Zen Maker Lab's RC Car Code.  Zenmakerlab zen makerlab
 RCCAR
 
+# Wiring Diagram
+![alt text](https://user-images.githubusercontent.com/63379059/88964139-c52be080-d25d-11ea-86b7-03a825a5a7c8.jpg)
+
 # Blynky App Setup
 Step 0) Prepare your email to make a blynk account
 
